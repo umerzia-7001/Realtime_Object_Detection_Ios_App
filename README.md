@@ -14,4 +14,5 @@ classifier model made using mobileNet which recognizes 1000 classes
   - converting model in tflite format 
   - optimizarion wrt latency, space etx can be done before converting 
   - additional apis such as apiNN /. multiple threads can be utilized for better performance
- Note: YOU NEED XCODE INSTALLED AND A APPLE DEVOPLER ACCOUNT IN ORDER TO RUN THESE APPS 
+ 
+NOTE : YOU NEED XCODE INSTALLED AND A APPLE DEVOPLER ACCOUNT IN ORDER TO RUN THESE APPS 
