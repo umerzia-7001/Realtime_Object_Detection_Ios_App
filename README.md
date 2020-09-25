@@ -14,10 +14,4 @@ classifier model made using mobileNet which recognizes 1000 classes
   - converting model in tflite format 
   - optimizarion wrt latency, space etx can be done before converting 
   - additional apis such as apiNN /. multiple threads can be utilized for better performance
-
-## Ruuning apps ->
-```
-function test() {
-  console.log("pip in");
-}
-```
+# Note: YOU NEED XCODE INSTALLED AND A APPLE DEVOPLER ACCOUNT IN ORDER TO RUN THESE APPS 
